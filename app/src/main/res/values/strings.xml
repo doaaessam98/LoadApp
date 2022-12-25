@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LoadApp</string>
+    <string name="btn_dowanload_title">Dowanload</string>
+    <string name="button_loading">Loading</string>
+    <string name="file_name" tools:ignore="ExtraTranslation">File Name</string>
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">Click me</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="button_download">Download</string>
+    <string name="radio_button_glide">Glide - Image Loading Library By BumpTech</string>
+    <string name="radio_button_load_app">LoadApp - Starter code by Udacity</string>
+    <string name="radio_button_retrofit">Retrofit - Type-safe HTTP client for Android and Java by Square</string>
+    <string name="ok">OK</string>
+    <string name="no_network_toast">There is no internet.</string>
+    <string name="select_option_toast">Please, select one of the options for download</string>
+    <string name="status">Status:</string>
+    <string name="download_status">Status</string>
+    <string name="app_description">load_app</string>
+    <string name="button_clicked">Clicked</string>
+
+</resources>
